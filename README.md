@@ -1,2 +1,2 @@
-# ip4-blocklist
-Blocklist for IPv4
+# ip-blocklist
+Blocklistd for IPv4 and IPv6
